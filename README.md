@@ -1,26 +1,79 @@
-<h1 align="center">Hi 👋, I'm Rakshita</h1>
-<h3 align="center">👩‍💻 Passionate Full Stack Developer | Machine Learning Engineer | From India</h3>
+<!-- Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff4081;">Rakshita</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI & Machine Learning Enthusiast | 🇮🇳 India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrakshita&label=Profile%20views&color=0e75b6&style=flat" alt="codewithrakshita" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithrakshita" alt="codewithrakshita" /></a> </p>
-
-- 🔭 I’m currently working on **AI enhanced carrier guidance**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://codewithrakshita.github.io/Portfolio/](https://codewithrakshita.github.io/Portfolio/)
-
-- 📫 How to reach me **rakshitamirji77@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakshita mirji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshita mirji" height="30" width="40" /></a>
+<p align="center">
+✨ Curious mind | 🚀 Building & Learning | 🎯 Future ML Engineer  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=codewithrakshita&label=Profile%20Views&color=ff1493&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithrakshita&show_icons=true&locale=en&layout=compact" alt="codewithrakshita" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithrakshita&show_icons=true&locale=en" alt="codewithrakshita" /></p>
+### 👩‍💻 About Me  
+
+- 🎓 Passionate about **Full Stack Development & ML**
+- 🧠 Currently exploring **AI, Data, and Model Building**
+- 🚀 Working on **AI-powered Career Guidance Platform**
+- 🌱 Always learning and leveling up one line of code at a time!
+- 📫 Reach me at **rakshitamirji77@gmail.com**
+- 🌐 Portfolio → **[codewithrakshita.github.io/Portfolio](https://codewithrakshita.github.io/Portfolio/)**
+
+> ✨ *"Dream big. Work hard. Build things that matter."*
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://linkedin.com/in/rakshita-mirji" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
+</p>
+
+---
+
+### 🚀 Tech Universe  
+
+#### 🎨 Frontend  
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react" height="48"/></p>
+
+#### 🛠️ Backend  
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" height="48"/></p>
+
+#### 🧠 Machine Learning & Data  
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="42"/>
+</p>
+
+#### 🗄️ Databases  
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb" height="48"/></p>
+
+#### 🔧 Tools  
+<p><img src="https://skillicons.dev/icons?i=git,github,postman" height="48"/></p>
+
+#### 🧵 Languages  
+<p><img src="https://skillicons.dev/icons?i=java,python,c" height="48"/></p>
+
+---
+
+### 📊 GitHub Insights  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codewithrakshita&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrakshita&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+### 🎉 Fun Fact  
+💡 *When I code, I feel like a superhero with super-powers!* ⚡🦸‍♀️  
+
+---
+
+### ⭐ Thanks for visiting! 
+If you like my work → **⭐ Star my repos**  
+Let’s learn & grow together 🚀🔥  
