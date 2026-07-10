@@ -1,139 +1,109 @@
 <h1 align="center">Hi 👋, I'm Rakshita Mirji</h1>
 
 <h3 align="center">
-Software Developer | Java Developer | Full Stack Web Developer
+Java Developer | Full Stack Developer | Problem Solver
 </h3>
 
-<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&color=0A66C2&lines=Java+Developer;Data+Structures+%26+Algorithms;Full+Stack+Web+Developer;React.js+%7C+Node.js+Developer;Building+Scalable+Software+Solutions;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Java+Developer;Full+Stack+Web+Developer;Data+Structures+%26+Algorithms;Building+Projects+with+React+%26+Node.js;Always+Learning+Something+New+%F0%9F%9A%80" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithrakshita&label=Profile%20Views&color=0A66C2&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=codewithrakshita&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
----
-
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="mailto:rakshitamirji77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:rakshitamirji77@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/rakshita-mirji-b54ab4293">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/rakshita-mirji-b54ab4293">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/codewithrakshita">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/codewithrakshita">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-- 🎓 Information Science Engineering Student at **Gogte Institute of Technology**
-- 💻 Passionate about **Software Development** and **Problem Solving**
-- 🌱 Currently improving my skills in **Java, Data Structures & Algorithms, React.js, Node.js**
-- 🚀 Interested in building scalable software and web applications
-- 📚 Strong foundation in **Object-Oriented Programming, DBMS, Operating Systems and Computer Networks**
-- 📍 India 🇮🇳
+```java
+class Rakshita {
 
-> **"Code. Learn. Improve. Repeat."**
+    String role = "Software Developer";
+
+    String[] interests = {
+        "Java",
+        "Full Stack Development",
+        "Problem Solving",
+        "Data Structures & Algorithms"
+    };
+
+    String currentlyLearning = "Advanced Java, REST APIs & React";
+
+    String motto = "Code • Learn • Build • Repeat 🚀";
+}
+```
+
+- 💻 Passionate about building software that solves real-world problems.
+- 🌱 Currently exploring modern backend and full stack development.
+- 🚀 I enjoy turning ideas into practical applications.
+- 📚 Always learning and improving one project at a time.
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,javascript" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript"/>
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄 Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### 🛠 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-## 🌐 Frontend
+# 💡 What I Like Working On
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+✨ Java Applications
 
----
+🌐 Full Stack Web Development
 
-## ⚙️ Backend
+📦 RESTful APIs
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+📊 Database Design
 
----
+⚡ Data Structures & Algorithms
 
-## 🗄️ Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
----
-
-## 🛠 Developer Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📚 Core Computer Science
-
-<p align="center">
-
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
-
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-success?style=for-the-badge)
-
-![DBMS](https://img.shields.io/badge/DBMS-orange?style=for-the-badge)
-
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-red?style=for-the-badge)
-
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-purple?style=for-the-badge)
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🎯 AI-Enhanced Career Guidance System
-
-**Tech Stack:** React.js • Node.js • MySQL
-
-- Personalized career recommendations based on users' skills and interests.
-- Interactive dashboard with a user-friendly interface.
-
----
-
-## 🚗 Java Ride Sharing Application
-
-**Tech Stack:** Java • Swing • AWT • Collections Framework
-
-- Secure user authentication and ride booking.
-- Fare estimation and ride management using Object-Oriented Programming.
-
----
-
-## 🌍 Disaster Preparedness & Response System
-
-**Tech Stack:** React.js • Node.js • MySQL
-
-- Disaster awareness platform with educational videos.
-- Interactive games, evacuation maps and emergency safety guidelines.
+💻 Object-Oriented Programming
 
 ---
 
@@ -141,36 +111,41 @@ Software Developer | Java Developer | Full Stack Web Developer
 
 - Advanced Java
 - RESTful APIs
-- Data Structures & Algorithms
 - React.js
 - Backend Development
+- System Design Basics
 
 ---
 
-# 📜 Certifications
+# 💻 Coding Profiles
 
-- 🎓 Machine Learning – Coursera
-- 🎓 Cloud Computing – NPTEL
-- 🎓 DBMS – Scaler
-- 🎓 Introduction to Front-End Development – Coursera
+<p align="center">
 
----
+<a href="https://github.com/codewithrakshita">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-# 🏆 Achievements
-
-- 🥈 Secured **2nd Place** in Paper Presentation at Aura College Fest
-- 💡 Participated in **SIH Internal Hackathon**
-- 🎤 Event Host at Aura College Fest
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithrakshita&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrakshita&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=codewithrakshita&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -186,10 +161,41 @@ Software Developer | Java Developer | Full Stack Web Developer
 
 ---
 
-# 📫 Let's Connect
+# 💬 Ask Me About
 
-I'm always interested in collaborating on **Java**, **Full Stack Development**, and **Software Development** projects.
+```text
+☕ Java
 
-⭐ Feel free to explore my repositories and connect with me!
+🌐 Web Development
 
-Thanks for visiting my profile! 🚀
+📚 Data Structures & Algorithms
+
+🛠 Git & GitHub
+
+💾 MySQL
+
+⚛ React.js
+
+⚙ Node.js
+```
+
+---
+
+# ☕ Fun Facts
+
+- ♟ I enjoy playing Chess.
+- 📖 I love learning new technologies.
+- 💡 I enjoy solving coding challenges.
+- 🚀 I believe consistency beats perfection.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+"Great software isn't built overnight—it's built one commit at a time."
+
+### Happy Coding! 🚀
+
+</div>
