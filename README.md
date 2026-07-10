@@ -1,204 +1,195 @@
-<!-- ======= HEADER ======= -->
-<h1 align="center">Hi 👋, I'm Rakshita</h1>
-<h3 align="center">Full Stack Developer | 🤖 Artificial Intelligence & Machine Learning Enthusiast | 🇮🇳 India</h3>
+<h1 align="center">Hi 👋, I'm Rakshita Mirji</h1>
 
-<!-- animated specialties: no abbreviations -->
+<h3 align="center">
+Software Developer | Java Developer | Full Stack Web Developer
+</h3>
+
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=900&color=FF4C9D&lines=Large+Language+Models;Artificial+Intelligence;Machine+Learning;Neural+Networks;Deep+Learning;Natural+Language+Processing;Computer+Vision;Machine+Learning+Operations;Building+Artificial+Intelligence+Applications+in+Python;Future+Machine+Learning+Engineer+%F0%9F%9A%80" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&color=0A66C2&lines=Java+Developer;Data+Structures+%26+Algorithms;Full+Stack+Web+Developer;React.js+%7C+Node.js+Developer;Building+Scalable+Software+Solutions;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<!-- profile views -->
+<br>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithrakshita&label=Profile%20Views&color=ff1493&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=codewithrakshita&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
-<!-- ======= ICON BUTTON LINKS ======= -->
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://codewithrakshita.github.io/Portfolio/" target="_blank">
-    <img alt="Portfolio" height="36"
-      src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="mailto:rakshitamirji77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="mailto:rakshitamirji77@gmail.com" target="_blank">
-    <img alt="Email" height="36"
-      src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/rakshita-mirji-b54ab4293">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/rakshita-mirji" target="_blank">
-    <img alt="LinkedIn" height="36"
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://github.com/codewithrakshita">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ======= ABOUT ======= -->
-### 👩‍💻 About Me
-- 🔭 Building an **Artificial Intelligence powered Career Guidance** platform  
-- 🧠 Focus: **Large Language Models, Machine Learning, Neural Networks, Natural Language Processing, Computer Vision**  
-- 🌱 Learning daily with hands-on projects and clean user interfaces  
+# 👩‍💻 About Me
+
+- 🎓 Information Science Engineering Student at **Gogte Institute of Technology**
+- 💻 Passionate about **Software Development** and **Problem Solving**
+- 🌱 Currently improving my skills in **Java, Data Structures & Algorithms, React.js, Node.js**
+- 🚀 Interested in building scalable software and web applications
+- 📚 Strong foundation in **Object-Oriented Programming, DBMS, Operating Systems and Computer Networks**
 - 📍 India 🇮🇳
 
-> “Dream big. Work hard. Build things that matter.”
+> **"Code. Learn. Improve. Repeat."**
 
 ---
 
-<!-- ======= AI/ML CHIPS ======= -->
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
 <p align="center">
-  <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=flat-square" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF1493?style=flat-square" />
-  <img alt="Large Language Models" src="https://img.shields.io/badge/Large%20Language%20Models-00BFFF?style=flat-square" />
-  <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-32CD32?style=flat-square" />
-  <img alt="Natural Language Processing" src="https://img.shields.io/badge/Natural%20Language%20Processing-FF7F50?style=flat-square" />
-  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-FFD700?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript" />
 </p>
 
 ---
 
-<!-- ======= TECH ARENA (ENHANCED & CENTERED) ======= -->
-### 🧰 Tech Arena
+## 🌐 Frontend
 
-<!-- headline -->
 <p align="center">
-  <em>My everyday toolkit for building beautiful products powered by Artificial Intelligence and Machine Learning.</em>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-<!-- AI / Data -->
+---
+
+## ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+## 🛠 Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📚 Core Computer Science
+
+<p align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-success?style=for-the-badge)
+
+![DBMS](https://img.shields.io/badge/DBMS-orange?style=for-the-badge)
+
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-red?style=for-the-badge)
+
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-purple?style=for-the-badge)
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎯 AI-Enhanced Career Guidance System
+
+**Tech Stack:** React.js • Node.js • MySQL
+
+- Personalized career recommendations based on users' skills and interests.
+- Interactive dashboard with a user-friendly interface.
+
+---
+
+## 🚗 Java Ride Sharing Application
+
+**Tech Stack:** Java • Swing • AWT • Collections Framework
+
+- Secure user authentication and ride booking.
+- Fare estimation and ride management using Object-Oriented Programming.
+
+---
+
+## 🌍 Disaster Preparedness & Response System
+
+**Tech Stack:** React.js • Node.js • MySQL
+
+- Disaster awareness platform with educational videos.
+- Interactive games, evacuation maps and emergency safety guidelines.
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Java
+- RESTful APIs
+- Data Structures & Algorithms
+- React.js
+- Backend Development
+
+---
+
+# 📜 Certifications
+
+- 🎓 Machine Learning – Coursera
+- 🎓 Cloud Computing – NPTEL
+- 🎓 DBMS – Scaler
+- 🎓 Introduction to Front-End Development – Coursera
+
+---
+
+# 🏆 Achievements
+
+- 🥈 Secured **2nd Place** in Paper Presentation at Aura College Fest
+- 💡 Participated in **SIH Internal Hackathon**
+- 🎤 Event Host at Aura College Fest
+
+---
+
+# 📊 GitHub Stats
+
 <div align="center">
-  
-**Artificial Intelligence & Data**
-  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="48" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="44" title="Scikit-learn"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="48" title="PyTorch"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" title="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="48" title="MATLAB"/>
-</p>
 
-<p>
-  <img alt="Natural Language Processing" src="https://img.shields.io/badge/Natural%20Language%20Processing-6A5ACD?style=for-the-badge" />
-  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-2E8B57?style=for-the-badge" />
-  <img alt="Machine Learning Operations" src="https://img.shields.io/badge/Machine%20Learning%20Operations-FF8C00?style=for-the-badge" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithrakshita&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br/>
-
-<!-- Frontend -->
-<div align="center">
-  
-**Frontend**
-  
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="48" title="CSS"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="48" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=react" height="48" title="React"/>
-</p>
-
-<p>
-  <img alt="Responsive Design" src="https://img.shields.io/badge/Responsive%20Design-1E90FF?style=flat-square" />
-  <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-20B2AA?style=flat-square" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- Backend -->
-<div align="center">
-  
-**Backend**
-  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" height="48" title="Express"/>
-</p>
-
-<p>
-  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-FF6347?style=flat-square" />
-  <img alt="Authentication" src="https://img.shields.io/badge/Authentication-8B0000?style=flat-square" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- Databases -->
-<div align="center">
-  
-**Databases**
-  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB"/>
-</p>
-
-<p>
-  <img alt="Schema Design" src="https://img.shields.io/badge/Schema%20Design-008080?style=flat-square" />
-  <img alt="Query Optimization" src="https://img.shields.io/badge/Query%20Optimization-556B2F?style=flat-square" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- Tools -->
-<div align="center">
-  
-**Tools**
-  
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="48" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman"/>
-</p>
-
-<p>
-  <img alt="Version Control" src="https://img.shields.io/badge/Version%20Control-4B0082?style=flat-square" />
-  <img alt="API Testing" src="https://img.shields.io/badge/API%20Testing-DAA520?style=flat-square" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- Programming Languages -->
-<div align="center">
-  
-**Programming Languages**
-  
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="48" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=python" height="48" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=c" height="48" title="C"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrakshita&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- ======= STATS ======= -->
-### 📊 GitHub Insights
+# 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithrakshita&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrakshita&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithrakshita&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
 
-<!-- ======= CONTRIBUTION GRAPH (NORMAL) ======= -->
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithrakshita&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" />
-</div>
+# 📫 Let's Connect
 
----
+I'm always interested in collaborating on **Java**, **Full Stack Development**, and **Software Development** projects.
 
-<!-- ======= CALL TO ACTION ======= -->
-### ⚡ Let’s Build!
-If you like my work → **⭐ star my repositories**  
-Let’s learn and grow together 🚀
+⭐ Feel free to explore my repositories and connect with me!
+
+Thanks for visiting my profile! 🚀
